@@ -1,8 +1,10 @@
 # atividade-02-Github
 
-Nova linha 
-
-
 Teste
 
 **************
+Linhas adicionadas
+
+---------------------
+
+Nova linha 
